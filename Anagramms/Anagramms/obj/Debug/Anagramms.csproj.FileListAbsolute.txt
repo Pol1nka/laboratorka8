@@ -1,0 +1,7 @@
+C:\Users\Pol1nka\RiderProjects\Anagramms\Anagramms\bin\Debug\Anagramms.exe
+C:\Users\Pol1nka\RiderProjects\Anagramms\Anagramms\bin\Debug\Anagramms.pdb
+C:\Users\Pol1nka\RiderProjects\Anagramms\Anagramms\obj\Debug\Anagramms.csproj.AssemblyReference.cache
+C:\Users\Pol1nka\RiderProjects\Anagramms\Anagramms\obj\Debug\Anagramms.csproj.SuggestedBindingRedirects.cache
+C:\Users\Pol1nka\RiderProjects\Anagramms\Anagramms\obj\Debug\Anagramms.csproj.CoreCompileInputs.cache
+C:\Users\Pol1nka\RiderProjects\Anagramms\Anagramms\obj\Debug\Anagramms.exe
+C:\Users\Pol1nka\RiderProjects\Anagramms\Anagramms\obj\Debug\Anagramms.pdb
