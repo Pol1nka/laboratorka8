@@ -1,0 +1,7 @@
+C:\Users\Pol1nka\RiderProjects\Subtitles\Subtitles\bin\Debug\Subtitles.exe
+C:\Users\Pol1nka\RiderProjects\Subtitles\Subtitles\bin\Debug\Subtitles.pdb
+C:\Users\Pol1nka\RiderProjects\Subtitles\Subtitles\obj\Debug\Subtitles.csproj.AssemblyReference.cache
+C:\Users\Pol1nka\RiderProjects\Subtitles\Subtitles\obj\Debug\Subtitles.csproj.SuggestedBindingRedirects.cache
+C:\Users\Pol1nka\RiderProjects\Subtitles\Subtitles\obj\Debug\Subtitles.csproj.CoreCompileInputs.cache
+C:\Users\Pol1nka\RiderProjects\Subtitles\Subtitles\obj\Debug\Subtitles.exe
+C:\Users\Pol1nka\RiderProjects\Subtitles\Subtitles\obj\Debug\Subtitles.pdb
