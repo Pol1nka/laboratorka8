@@ -1,0 +1,7 @@
+C:\Users\Pol1nka\RiderProjects\AccountStatement\AccountStatement\bin\Debug\AccountStatement.exe
+C:\Users\Pol1nka\RiderProjects\AccountStatement\AccountStatement\bin\Debug\AccountStatement.pdb
+C:\Users\Pol1nka\RiderProjects\AccountStatement\AccountStatement\obj\Debug\AccountStatement.csproj.AssemblyReference.cache
+C:\Users\Pol1nka\RiderProjects\AccountStatement\AccountStatement\obj\Debug\AccountStatement.csproj.SuggestedBindingRedirects.cache
+C:\Users\Pol1nka\RiderProjects\AccountStatement\AccountStatement\obj\Debug\AccountStatement.csproj.CoreCompileInputs.cache
+C:\Users\Pol1nka\RiderProjects\AccountStatement\AccountStatement\obj\Debug\AccountStatement.exe
+C:\Users\Pol1nka\RiderProjects\AccountStatement\AccountStatement\obj\Debug\AccountStatement.pdb
